@@ -9,7 +9,7 @@ I`m a Web Developer, and i studying web development at [Rocketseat] (https://roc
 - `Javascript`
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
-- Tools: `VsCode`
+- Tools:`VsCode` `beekeeper Studio`
 
 ### Contact
 - Email: defischer@universo.univates.br
