@@ -8,6 +8,7 @@ I`m a Web Developer, and i studying web development at [Rocketseat] (https://roc
 - `CSS3`
 - `Javascript`
 - `SQL`
+- `React`
 - Layout Design: `Figma`
 - Version code control: `Git & Github`
 - Tools:`VsCode` `Beekeeper Studio`
