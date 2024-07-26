@@ -1,15 +1,16 @@
 ## Hi there, I`m Deise Backes👋
 
 ### About
-I`m a Web Developer, and i studying web development at [Rocketseat] (https://rocketseat.com.br/)
+I have a degree in Website Analysis and Development and a postgraduate student in data science and big data
+analytics at [Unisc] (https://www.unisc.br/ead/cursos/ciencia-de-dados-e-big-data-analytics/)
 
 ### Current stack
 - `HTML5`
 - `CSS3`
 - `Javascript`
 - `SQL`
-- `React`
-- Layout Design: `Figma`
+- `Python`
+- ``
 - Version code control: `Git & Github`
 - Tools:`VsCode` `Beekeeper Studio`
 
