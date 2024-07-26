@@ -5,14 +5,13 @@ I have a degree in Website Analysis and Development and a postgraduate student i
 analytics at [Unisc] (https://www.unisc.br/ead/cursos/ciencia-de-dados-e-big-data-analytics/)
 
 ### Current stack
+- `SQL`
+- `Python`
+- `Ciência de dados`
 - `HTML5`
 - `CSS3`
 - `Javascript`
-- `SQL`
-- `Python`
-- ``
 - Version code control: `Git & Github`
-- Tools:`VsCode` `Beekeeper Studio`
 
 ### Contact
 - Email: defischer@universo.univates.br
